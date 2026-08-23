@@ -14,19 +14,19 @@ O projeto foi dividido em duas classes:
 Exemplo de uso
 Aqui um exemplo básico de como usar a lista no código principal:
 
-```java
+em java
 DoublyLinkedList list = new DoublyLinkedList();
 
-// Adicionando alguns números na lista
+Adicionando alguns números na lista
 list.insertValue(10);
 list.insertValue(20);
 list.insertValue(30);
 
-// Mostrando no console (Resultado: 10 <~> 20 <~> 30)
+Mostrando no console (Resultado: 10 <~> 20 <~> 30)
 list.printList(); 
 
-// Tirando o 20 do meio da lista
+Tirando o 20 do meio da lista
 list.deleteValue(20);
 
-// Mostrando como ficou depois de remover (Resultado: 10 <~> 30)
+Mostrando como ficou depois de remover (Resultado: 10 <~> 30)
 list.printList();
