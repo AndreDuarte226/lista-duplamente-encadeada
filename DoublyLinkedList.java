@@ -29,7 +29,7 @@ public class DoublyLinkedList {
 
     public boolean deleteValue(int value) {
         if (begin == null) {
-            return false; // Lista vazia
+            return false;
         }
 
         Node currentNode = begin;
