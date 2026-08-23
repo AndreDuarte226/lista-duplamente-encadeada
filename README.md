@@ -2,7 +2,8 @@
 
 Nome completo: André Luiz Fontana Duarte
 
- Sobre o projeto
+Sobre o projeto
+
 Trabalho da matéria de Estrutura de Dados pra implementar uma Lista Duplamente Encadeada do zero em Java. A regra da atividade era não usar as coleções prontas do Java (tipo ArrayList ou LinkedList), então a construção foi toda feita na raça.
 
 Estrutura do código
