@@ -3,10 +3,10 @@ class Main {
         DoublyLinkedList list = new DoublyLinkedList();
 
         System.out.println("Bora adicionar os valores:");
-        list.insertValue(10);
-        list.insertValue(20);
-        list.insertValue(29);
-        list.insertValue(57);
+        list.insertValue(12);
+        list.insertValue(24);
+        list.insertValue(31);
+        list.insertValue(56);
 
         list.printList();
         System.out.println("Tamanho agora: " + list.getSize());
